@@ -5,7 +5,6 @@
 #  count = count + 1
 #end
 
-
 magic_exit_number = 0
 count = 10
 while count < 11 && count !=magic number do

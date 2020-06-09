@@ -7,7 +7,8 @@
 
 magic_exit_number = 0
 count = 10
-while count <11 && count != magic_exit_number do break if count == magic_exit_number
+while count <11 && count != magic_exit_number do 
+  break if count == magic_exit_number
   puts {count}
   count = count - 1
 end

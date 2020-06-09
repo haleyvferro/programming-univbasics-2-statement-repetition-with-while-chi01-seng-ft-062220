@@ -7,4 +7,7 @@
 
 magic_exit_number = 0
 count = 10
-while count <
+while count <11 && count != magic_exit_number do
+  puts "Happy New Year!"
+  count = count - 1
+end

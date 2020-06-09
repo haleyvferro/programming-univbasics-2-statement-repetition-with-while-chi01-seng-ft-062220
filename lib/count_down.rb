@@ -6,10 +6,10 @@
 #end
 
 
+magic_exit_number = 0
 count = 10
-while count > 0 && count != magic_exit_number do
+while count < 11 && count !=magic number do
   puts "{count}"
-   count = count - 1
-while count = 0 do
-  puts "Happy New Year!"
+  count = count - 1
 end
+puts "Happy New Year!"
